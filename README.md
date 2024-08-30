@@ -4,7 +4,6 @@
     <img src="https://github.com/user-attachments/assets/42e6ac3e-d396-4446-8783-cb49d2326dfe" alt="description" width="1000"/>
 </p>
 
-
 <p align="left">
  🎓 <strong>Data Science Technology student at Airlangga University</strong>
 </p> 
@@ -125,11 +124,11 @@
 <h3 align="left">🛠️ My GitHub Stats:</h3>
 <p align="left">
 <a href="https://github.com/netrialiarahmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=netrialiarahmi&show_icons=true&theme=radical" alt="Netri Alia Rahmi's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=netrialiarahmi&show_icons=true&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552" alt="Netri Alia Rahmi's GitHub stats" />
 </a>
 <br />
 <a href="https://github.com/netrialiarahmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=netrialiarahmi&show_icons=true&theme=radical&layout=compact" alt="Netri Alia Rahmi's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=netrialiarahmi&show_icons=true&layout=compact&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552" alt="Netri Alia Rahmi's most used languages" />
 </a>
 </p>
 
