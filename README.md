@@ -131,7 +131,7 @@ A few examples from **30+ projects** in my portfolio:
 - **Home Sales Time Series Analysis** – SARIMAX-based demand forecasting  
 - **Automated Sentiment Analysis for the Indonesian EV Market** – NLP pipeline for market insights  
 - **Mental Health Chatbot** – Conversational agent for mental health support scenarios  
-- **Diabetic Foot Analysis System**, **TanamTepat (Crop Recommendation)**, **Coastal Litter Detection**, and more
+- **Diabetic Foot Analysis System** and more
 
 ---
 *(More roles in education, government, and community initiatives are detailed in my CV and portfolio.)*
