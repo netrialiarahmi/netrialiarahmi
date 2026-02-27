@@ -172,14 +172,6 @@ A selection from **30+ projects** across my portfolio:
 
 ## GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/netrialiarahmi">
-    <img src="https://github-readme-stats.vercel.app/api?username=netrialiarahmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/netrialiarahmi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netrialiarahmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/netrialiarahmi">
