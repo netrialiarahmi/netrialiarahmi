@@ -5,8 +5,9 @@
 <h1 align="center">Netri Alia Rahmi</h1>
 
 <p align="center">
-  <strong>Data Science Graduate | Airlangga University</strong><br/>
-  Predictive Modeling · Applied AI · Data-Driven Decision Making
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+%7C+Airlangga+University;Predictive+Modeling+%C2%B7+Applied+AI;Machine+Learning+%C2%B7+NLP+%C2%B7+LLMs;Building+Data-Driven+Solutions" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -29,6 +30,10 @@
   <a href="https://medium.com/@netri.alia.rahmi-2021">
     <img src="https://img.shields.io/badge/Medium-1F2933?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=netrialiarahmi&style=flat-square&color=173552&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <br/>
@@ -155,22 +160,40 @@ A selection from **30+ projects** across my portfolio:
 
 <br/>
 
+## GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/netrialiarahmi">
+    <img src="https://github-profile-trophy.vercel.app/?username=netrialiarahmi&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br/>
+
 ## GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/netrialiarahmi">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=netrialiarahmi&show_icons=true&title_color=173552&icon_color=173552&bg_color=ffffff&border_color=E5E7EB&text_color=1F2933&hide_border=false"
-      alt="GitHub Stats"
-      height="165"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=netrialiarahmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/netrialiarahmi">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=netrialiarahmi&show_icons=true&layout=compact&title_color=173552&icon_color=173552&bg_color=ffffff&border_color=E5E7EB&text_color=1F2933&hide_border=false"
-      alt="Top Languages"
-      height="165"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netrialiarahmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/netrialiarahmi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=netrialiarahmi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br/>
+
+## Activity Graph
+
+<p align="center">
+  <a href="https://github.com/netrialiarahmi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=netrialiarahmi&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
@@ -179,7 +202,7 @@ A selection from **30+ projects** across my portfolio:
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Activity"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <br/>
